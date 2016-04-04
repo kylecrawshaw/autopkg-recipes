@@ -11,8 +11,8 @@
         <key>NAME</key>
         <string>Axure Pro</string>
     </dict>
-    <key>MinimumVersion</key>
-    <string>0.2.0</string>
+    <!-- <key>MinimumVersion</key> -->
+    <!-- <string>0.2.0</string> -->
     <key>ParentRecipe</key>
     <string>com.github.thenikola.download.AxurePro</string>
     <key>Process</key>
